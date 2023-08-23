@@ -9,7 +9,7 @@ function App() {
 
         
         {/* <p>parrafo vlad</p> */}
-        <p>Hello world, helo Anggi,I'm Elena, nice to meet you</p>
+        <p>Hello world, hello Anggi, I'm Elena, nice to meet you</p>
         <p>Probando, probando, 7, 8, 9</p>
         {/* <p>parrafo milo</p> */}
         <p>Hello World, I'm Armin</p>
