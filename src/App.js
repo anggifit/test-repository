@@ -9,7 +9,7 @@ function App() {
       {/* <p>parrafo vlad</p> */}
       {/* <p>parrafo elena</p> */}
 
-      <p>Hello World I'm Miguel👨🏽‍🚀</p>
+      <p>Hello World I'm Milo👨🏽‍🚀</p>
       <p>Hello World, I'm Armin</p>
       <div>
         <img className='img'
