@@ -1,5 +1,4 @@
 import './App.css';
-import './coding.gif'
 
 function App() {
   return (
@@ -13,7 +12,10 @@ function App() {
       <p>Hello World I'm Miguel👨🏽‍🚀</p>
       <p>Hello World, I'm Armin</p>
       <div>
-        <img src="src\coding.gif" alt="Hello world wallpaper" />
+        <img className='img'
+          src="https://hackernoon.com/images/f2px36fy.gif"
+          alt="Hello world wallpaper"
+        />
       </div>
     </div>
   );
